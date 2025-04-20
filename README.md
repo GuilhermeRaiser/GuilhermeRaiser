@@ -3,8 +3,7 @@
 **`Desenvolvedor Java`**
 
 <br>**Opa, é um prazer te ver por aqui. :)**<br>
-Deixa eu me apresentar: me chamo Guilherme Raiser, tenho 22 anos e sou natural de Joinville-SC. Atualmente, curso Sistemas de Informação na Univille e estou me aprofundando cada vez mais na área de TI. <br>
-Aqui você vai encontrar meus projetos em Java, Spring e AWS — stack que venho estudando há alguns meses e pela qual tenho um grande interesse HAHAH. <br>
+Deixa eu me apresentar: me chamo Guilherme Raiser, tenho 22 anos e sou natural de Joinville-SC. Atualmente, curso Sistemas de Informação na Univille e estou me aprofundando cada vez mais na área de TI.Aqui você vai encontrar meus projetos em Java, Spring e AWS — stack que venho estudando há alguns meses e pela qual tenho um grande interesse HAHAH. <br>
 Durante a faculdade, tive contato com os conceitos de Cloud, especialmente com AWS, e me interessei muito pela tecnologia. Conquistei a certificação AWS Cloud Practitioner e, desde então, venho explorando conteúdos relacionados, como Linux, Docker e CI/CD.
 
 
