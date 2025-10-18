@@ -4,13 +4,13 @@
 
 <br>**Opa, é um prazer te ver por aqui. :)**<br>
 Me chamo Guilherme Raiser, tenho 23 anos e sou natural de Joinville-SC. <br> 
-Atualmente, curso o 8º semestre de Sistemas de Informação na Univille e atuo como Estágiario na Domo Soluções em T.I. Lá, estou acompanhando e desenvolvendo habilidades em T.I, focadas em Microsoft On-Premiss, Azure e Office 365. <br> 
+Atualmente, curso o 8º semestre de Sistemas de Informação na Univille e atuo como Estágiario na Domo Soluções em T.I. Lá, estou acompanhando e desenvolvendo habilidades em T.I, focadas em Microsoft On-premises, Azure e Office 365. <br> 
 Em conjunto, estou me aprofundando em tecnologias como Linux, Python, AI/ML, AWS e Azure, além do meu TCC sobre "Aplicação de FinOps em ambientes de treinamento de Inteligência Artificial".
 
 Certificações:
-AWS Cloud Practitioner
-AZ-900 Azure Fundamentals (Em estudo).
-AI-102 Azure AI Engineer Associate (Em estudo).
+AWS Cloud Practitioner. <br>
+AZ-900 Azure Fundamentals (Em estudo).<br>
+AI-102 Azure AI Engineer Associate (Em estudo).<br>
 FinOps Practitioner (desejo).
 
 
