@@ -1,10 +1,17 @@
 # Guilherme Raiser
 
-**`Desenvolvedor Java`**
+**`Infraestrutura e Cloud`**
 
 <br>**Opa, é um prazer te ver por aqui. :)**<br>
-Deixa eu me apresentar: me chamo Guilherme Raiser, tenho 22 anos e sou natural de Joinville-SC. Atualmente, curso Sistemas de Informação na Univille e estou me aprofundando cada vez mais na área de TI. Aqui você vai encontrar meus projetos em Java, Spring e AWS — stack que venho estudando há alguns meses e pela qual tenho um grande interesse HAHAH. <br>
-Durante a faculdade, tive contato com os conceitos de Cloud, especialmente com AWS, e me interessei muito pela tecnologia. Conquistei a certificação AWS Cloud Practitioner e, desde então, venho explorando conteúdos relacionados, como Linux, Docker e CI/CD.
+Me chamo Guilherme Raiser, tenho 23 anos e sou natural de Joinville-SC. <br> 
+Atualmente, curso o 8º semestre de Sistemas de Informação na Univille e atuo como Estágiario na Domo Soluções em T.I. Lá, estou acompanhando e desenvolvendo habilidades em T.I, focadas em Microsoft On-Premiss, Azure e Office 365. <br> 
+Em conjunto, estou me aprofundando em tecnologias como Linux, Python, AI/ML, AWS e Azure, além do meu TCC sobre "Aplicação de FinOps em ambientes de treinamento de Inteligência Artificial".
+
+Certificações:
+AWS Cloud Practitioner
+AZ-900 Azure Fundamentals (Em estudo).
+AI-102 Azure AI Engineer Associate (Em estudo).
+FinOps Practitioner (desejo).
 
 
 
