@@ -10,8 +10,6 @@ Em conjunto, estou me aprofundando em tecnologias como Linux, Python, AI/ML, AWS
 Certificações:<br>
 AWS Cloud Practitioner. <br>
 AZ-900 Azure Fundamentals (Em estudo).<br>
-AI-102 Azure AI Engineer Associate (Em estudo).<br>
-FinOps Practitioner (desejo).
 
 
 
